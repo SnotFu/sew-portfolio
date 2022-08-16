@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a76ead92.css",
-    "main.js": "/static/js/main.9a8c5e23.js",
+    "main.css": "/static/css/main.5be42714.css",
+    "main.js": "/static/js/main.30d18805.js",
     "static/media/bgIMG.png": "/static/media/bgIMG.9c10179efa750a1de472.png",
     "static/media/profile.png": "/static/media/profile.ea71199593b31acba03b.png",
     "static/media/fullstack.png": "/static/media/fullstack.c470ce19bd5af61d4cde.png",
@@ -10,7 +10,7 @@
     "static/media/logo-grunt.png": "/static/media/logo-grunt.9e1afd691216c4921b4c.png",
     "static/media/logo-mern.png": "/static/media/logo-mern.36f3c9d6f26bb5fa00f7.png",
     "static/media/logo-androidstudio.png": "/static/media/logo-androidstudio.554010a1e1fe637c1f47.png",
-    "static/media/bgWhite.png": "/static/media/bgWhite.62847c08ccb4df1a8a9f.png",
+    "static/media/bgWhite.png": "/static/media/bgWhite.7942e2c209a13908ba6e.png",
     "static/media/logo-less.png": "/static/media/logo-less.a6db8e9aa6a3fbd59eb5.png",
     "static/media/logo-gimp.png": "/static/media/logo-gimp.ae97f2586ecddd4f748f.png",
     "static/media/logo-ruby.png": "/static/media/logo-ruby.b5e0c5ede4daa3dab2be.png",
@@ -47,11 +47,11 @@
     "static/media/logo-vscode.svg": "/static/media/logo-vscode.b8b1e001813039750e6c05c236ab0d46.svg",
     "index.html": "/index.html",
     "static/media/circle.svg": "/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
-    "main.a76ead92.css.map": "/static/css/main.a76ead92.css.map",
-    "main.9a8c5e23.js.map": "/static/js/main.9a8c5e23.js.map"
+    "main.5be42714.css.map": "/static/css/main.5be42714.css.map",
+    "main.30d18805.js.map": "/static/js/main.30d18805.js.map"
   },
   "entrypoints": [
-    "static/css/main.a76ead92.css",
-    "static/js/main.9a8c5e23.js"
+    "static/css/main.5be42714.css",
+    "static/js/main.30d18805.js"
   ]
 }
