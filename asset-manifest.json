@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5be42714.css",
-    "main.js": "/static/js/main.30d18805.js",
+    "main.css": "/static/css/main.77e0215b.css",
+    "main.js": "/static/js/main.79de07c2.js",
     "static/media/bgIMG.png": "/static/media/bgIMG.9c10179efa750a1de472.png",
     "static/media/profile.png": "/static/media/profile.ea71199593b31acba03b.png",
     "static/media/fullstack.png": "/static/media/fullstack.c470ce19bd5af61d4cde.png",
@@ -46,12 +46,12 @@
     "static/media/logo-angular.svg": "/static/media/logo-angular.3f781d9105b3bef395676155dd37e208.svg",
     "static/media/logo-vscode.svg": "/static/media/logo-vscode.b8b1e001813039750e6c05c236ab0d46.svg",
     "index.html": "/index.html",
-    "static/media/circle.svg": "/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
-    "main.5be42714.css.map": "/static/css/main.5be42714.css.map",
-    "main.30d18805.js.map": "/static/js/main.30d18805.js.map"
+    "static/media/circle.svg": "/static/media/circle.14db4a58cf0cbcdb40d301275e9e58ee.svg",
+    "main.77e0215b.css.map": "/static/css/main.77e0215b.css.map",
+    "main.79de07c2.js.map": "/static/js/main.79de07c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.5be42714.css",
-    "static/js/main.30d18805.js"
+    "static/css/main.77e0215b.css",
+    "static/js/main.79de07c2.js"
   ]
 }
